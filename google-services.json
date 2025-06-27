@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431380051637",
+    "project_id": "moodjournalapp-b8729",
+    "storage_bucket": "moodjournalapp-b8729.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431380051637:android:5447f2ee8d06d9f94030fc",
+        "android_client_info": {
+          "package_name": "com.petra.moodjournal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU0yxJeGsjWZ5lLXIbPUNmIoNO9ONY1dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
